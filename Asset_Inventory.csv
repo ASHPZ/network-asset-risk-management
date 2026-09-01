@@ -1,0 +1,7 @@
+ID,Asset,Network access,Owner,Location,Notes,Sensitivity
+1,Network router,Continuous,Internet service provider (ISP),On-premises,Has a 2.4 GHz and 5 GHz connection. All devices connect to 5 GHz.,Confidential
+2,Desktop computer,Occasional,Homeowner,On-premises,"Contains private information, like photos and financial docs.",Restricted
+3,Guest smartphone,Occasional,Friend / Guest,On and off-premises,Connects to the home guest network.,Internal-only
+4,Smart TV,Continuous,Homeowner,On-premises,"Used for entertainment, streams media, and connects to home network.",Internal-only
+5,Administration Tablet,Occasional,Homeowner,On-premises,Used strictly for home network administration.,Restricted
+6,Smart home hub,Continuous,Homeowner,On-premises,"Used to control home automation (thermostat, lights).",Confidential
